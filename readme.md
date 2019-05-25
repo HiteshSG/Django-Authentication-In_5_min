@@ -16,3 +16,5 @@ This is complete authentication pluggable app which can be use for any django we
 6. Check with following urls:
 - 127.0.0.1:8000/account/login
 - 127.0.0.1:8000/account/register
+
+------------------------------------------------------------------------------------------------------------------------------
